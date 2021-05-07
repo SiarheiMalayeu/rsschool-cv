@@ -3,7 +3,7 @@
 1. Siarhei Malayeu<br/>
 2. sergey.spr.8@gmail.com<br/>
 3. Designer of undergroud costructions<br/>
-4. Skills: Java<br/>
+4. Skills: Java, Cotlin<br/>
 5. Code examples:<br/>
 public class Solution {<br/>
     public static void main(String[] args) {<br/>
