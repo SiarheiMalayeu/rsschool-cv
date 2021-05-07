@@ -1,1 +1,1 @@
-https://siarheimalayeu.github.io/rsschool-cv/CV
+https://siarheimalayeu.github.io/rsschool-cv/cv
